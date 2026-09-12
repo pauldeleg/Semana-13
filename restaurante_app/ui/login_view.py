@@ -36,7 +36,7 @@ class LoginView(tk.Frame):
 
         titulo = tk.Label(
             contenedor,
-            text="Biblioteca",
+            text="Restaurante",
             bg="#ffffff",
             fg="#1f2a44",
             font=("Arial", 22, "bold"),
